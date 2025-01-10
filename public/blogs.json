@@ -1,0 +1,62 @@
+[
+   {
+     "id": "001",
+     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "title": "Exploring the Cosmos",
+     "author": {
+       "name": "Dr. Astara Nova",
+       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+     },
+     "posted_date": "January 1, 2023",
+     "reading_time": "5",
+     "hashtags": ["#Astronomy", "#Space", "#Science"]
+   },
+   {
+     "id": "002",
+     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "title": "The Art of Cooking",
+     "author": {
+       "name": "Chef Alexander",
+       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+     },
+     "posted_date": "February 14, 2023",
+     "reading_time": 8,
+     "hashtags": ["#Cooking", "#Food", "#Gourmet"]
+   },
+   {
+     "id": "003",
+     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "title": "Adventures in the Wild",
+     "author": {
+       "name": "Sarah Greenfield",
+       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+     },
+     "posted_date": "March 3, 2023",
+     "reading_time": 7,
+     "hashtags": ["#Travel", "#Adventure", "#Nature"]
+   },
+   {
+     "id": "004",
+     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "title": "The Digital Revolution",
+     "author": {
+       "name": "John Byte",
+       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+     },
+     "posted_date": "April 10, 2023",
+     "reading_time": 10,
+     "hashtags": ["#Technology", "#Innovation", "#Digital"]
+   },
+   {
+     "id": "005",
+     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "title": "Mindfulness and Meditation",
+     "author": {
+       "name": "Emma Peace",
+       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+     },
+     "posted_date": "May 25, 2023",
+     "reading_time": 6,
+     "hashtags": ["#Mindfulness", "#Meditation", "#Wellbeing"]
+   }
+ ]
