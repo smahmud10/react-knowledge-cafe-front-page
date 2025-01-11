@@ -2,8 +2,8 @@
 import PropTypes from 'prop-types';
 import { GoBookmarkFill } from "react-icons/go";
 
-const Blog = ({blog,handleAddTobookmark}) => {
-   const {title, author, cover,posted_date,reading_time ,hashtags} = blog;
+const Blog = ({blog,handleAddToBookmark,handleMarkAsRead}) => {
+   const {id,title, author, cover,posted_date,reading_time,hashtags} = blog;
    return (
       <div className='my-20 space-y-8 '>
 
@@ -24,7 +24,7 @@ const Blog = ({blog,handleAddTobookmark}) => {
             <div className='flex items-center'>
                <span>{reading_time} min read</span>
                <button
-               onClick={()=>handleAddTobookmark(blog)}
+               onClick={()=>handleAddToBookmark(blog)}
                className='ml-2 text-3xl text-sky-400 '><GoBookmarkFill></GoBookmarkFill></button>
             </div>
          </div>
@@ -32,12 +32,14 @@ const Blog = ({blog,handleAddTobookmark}) => {
          <p>{
             hashtags.map((hash,idx )=><span key={idx}><a>#{hash}</a></span>)
             }</p>
+            <button onClick={()=>{handleMarkAsRead(id,reading_time)}} className='font-bold text-purple-600 underline'>Mark as read</button>
       </div>
    );
 };
 
 Blog.propTypes = {
    blog: PropTypes.object.isRequired,
-   handleAddToBookmark: PropTypes.func.isRequired,
+   handleAddToBookmark: PropTypes.func,
+   handleMarkAsRead: PropTypes.func,
 }
 export default Blog;

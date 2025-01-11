@@ -1,5 +1,5 @@
 
-import PropTypes from 'prop-types';
+
 import  profile from '../../assets/images/profile.png'
 
 const Header = () => {
@@ -11,8 +11,6 @@ const Header = () => {
    );
 };
 
-Header.propTypes = {
 
-};
 
 export default Header;
