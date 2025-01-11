@@ -1,11 +1,11 @@
 [
    {
      "id": "001",
-     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "cover": "https://i.ibb.co.com/7V1xZbM/pexels-fotios-photos-1194410.jpg",
      "title": "Exploring the Cosmos",
      "author": {
        "name": "Dr. Astara Nova",
-       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+       "author_img": "https://i.postimg.cc/GhLbL2p6/boy1.png"
      },
      "posted_date": "January 1, 2023",
      "reading_time": "5",
@@ -13,11 +13,11 @@
    },
    {
      "id": "002",
-     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "cover": "https://i.ibb.co.com/7V1xZbM/pexels-fotios-photos-1194410.jpg",
      "title": "The Art of Cooking",
      "author": {
        "name": "Chef Alexander",
-       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+       "author_img": "https://i.postimg.cc/CLcSzgB5/boy2.jpg"
      },
      "posted_date": "February 14, 2023",
      "reading_time": 8,
@@ -25,11 +25,11 @@
    },
    {
      "id": "003",
-     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "cover": "https://i.ibb.co.com/7V1xZbM/pexels-fotios-photos-1194410.jpg",
      "title": "Adventures in the Wild",
      "author": {
        "name": "Sarah Greenfield",
-       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+       "author_img": "https://i.postimg.cc/pLyxj6zZ/girl1.jpg"
      },
      "posted_date": "March 3, 2023",
      "reading_time": 7,
@@ -37,11 +37,11 @@
    },
    {
      "id": "004",
-     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "cover": "https://i.ibb.co.com/7V1xZbM/pexels-fotios-photos-1194410.jpg",
      "title": "The Digital Revolution",
      "author": {
        "name": "John Byte",
-       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+       "author_img": "https://i.postimg.cc/bwMP99Rj/girl2.jpg"
      },
      "posted_date": "April 10, 2023",
      "reading_time": 10,
@@ -49,11 +49,11 @@
    },
    {
      "id": "005",
-     "cover": "https://i.ibb.co.com/WkssS93/10266200.jpg",
+     "cover": "https://i.ibb.co.com/7V1xZbM/pexels-fotios-photos-1194410.jpg",
      "title": "Mindfulness and Meditation",
      "author": {
        "name": "Emma Peace",
-       "author_img": "https://i.ibb.co.com/SQ2sqVs/steve-johnson-k-JSq3-WJ-AVU-unsplash.jpg"
+       "author_img": "https://i.postimg.cc/bwMP99Rj/girl2.jpg"
      },
      "posted_date": "May 25, 2023",
      "reading_time": 6,
